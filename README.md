@@ -11,7 +11,6 @@ I am Henning, software engineer/developer and experienced systems architect.
 - 💬 Ask me about Clojure, Emacs and fly-fishing.
 - ⚡ I'm in my 9th year as full time linux desktop user.
 - 📫 How to reach me:  
-- [🚀 Visit my homepage](https://jansenh.no)__
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henningjansen)
+- [🚀 Visit my homepage](https://jansenh.no)
 
-🚀
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henningjansen)
