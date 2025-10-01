@@ -2,7 +2,9 @@
 
 I am Henning, software engineer/developer and experienced systems architect.
 
-> 🔭 I’m currently working on integrating and implementing the **NeTEx** and **SIRI** (Network Timetable Exchange, Service Interface for Real-time Information) standards for public transport data exchange (European CEN Technical Committee 278 for enabling seamless, real-time information sharing across different transport systems). My focus is on developing robust solutions that leverage these standards to enhance the core business of my employer Norled AS for marine public transport.
+> 🔭 I’m currently working on integrating and implementing the **NeTEx** and **SIRI** standards for public transport data exchange. My focus is on developing robust solutions that leverage these standards to enhance the core business of my employer Norled AS for marine public transport.
+
+(NeTEx : "Network Timetable Exchange", SIRI : "Service Interface for Real-time Information" are standards under the [European CEN Technical Committee 278](https://www.cencenelec.eu/areas-of-work/cen-sectors/transport-and-packaging-cen/intelligent-transport-systems/) for Intelligent Transport Systems.)
 
 - 💻 I'm an advocate of Functional Programming as a way to express complex concepts in simple models.
 - 🌱 I’m currently learning advanced machine learning for artificial intelligence: neural networks, and reinforcement learning.
