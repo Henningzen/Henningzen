@@ -6,8 +6,9 @@ I am Henning, software developer and experienced systems architect.
 
 - 💻 I'm an advocate of Functional Programming as a way to express complex concepts in simple models.
 - 🌱 I’m currently studying advanced machine learning for artificial intelligence: neural networks, and reinforcement learning.
-- 🤔 I’m investigating NeTEx and SIRI standards for Public Transportation in a SciCloj environment.
-- 💰 I have a professional career as an expert polyglot programmer; Clojure, Java, C# and Python, with Kafka, Datomic et al.
+- 🤔 I’m investigating open-source with the [Clojurists Together](https://www.clojuriststogether.org/) group.
+- 💰 I have a professional career as an seasoned polyglot programmer; Java, C# and Python, with Postgres, Kafka, Datomic et al.
+- 🎯 I'm an expert Clojure programmer with five ++ years of experience in large-scale enterprise web applications.
 - 💬 Ask me about Clojure, Emacs and fly-fishing.
 - ⚡ I'm in my 9th year as full time linux desktop user.
 - 📫 How to reach me: [https://jansenh.no](https://jansenh.no) 🚀
